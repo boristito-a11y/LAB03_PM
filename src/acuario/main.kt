@@ -8,7 +8,7 @@ fun construirAcuario() {
     acuario2.imprimirTamano()               // ancho por defecto
 
     val acuario3 = Acuario(alto = 35, largo = 110)
-    acuario3.imprimirTamano()               // todo personalizado
+    acuario3.imprimirTamano()               // personalizado
 
     val acuario4 = Acuario(ancho = 25, alto = 35, largo = 110)
     acuario4.imprimirTamano()
